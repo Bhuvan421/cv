@@ -1,0 +1,54 @@
+body {
+    background-color: #EAF6F6;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 10%;
+}
+
+h1 {
+    color: #66BFBF;
+}
+
+h3 {
+    color: #66BFBF;
+}
+
+.button {
+    background-color: black;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+}
+
+.button:hover {
+    background-color: #678983;
+}
+
+.LinkedIn {
+    color: #2B3A55;
+}
+
+.GitHub {
+    color: #2B3A55;
+}
+
+.DM {
+    color: #2B3A55;
+}
+
+.LinkedIn:hover {
+    color: #678983;
+}
+
+.GitHub:hover {
+    color: #678983;
+}
+
+.DM:hover {
+    color: #678983;
+}
